@@ -1,0 +1,11 @@
+{
+    "order_confirmed":"Order confirmed",
+    "oc_txt_1":"Your order has been received!",
+    "oc_txt_2":"You will receive in your mailbox the order details",
+    "oc_txt_3":"and shipping updates.",
+    "back_home":"BACK HOME",
+    "order_failure":"Order failed",
+    "of_txt_1":"Your order can't be placed at this time",
+    "of_txt_2":"If any amount is deducted it will be refunded back in your account",
+    "of_txt_3":"Please, try again"
+}

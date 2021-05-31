@@ -1,0 +1,12 @@
+{
+    "cart": "CARRO",
+    "product": "Producto",
+    "price": "Precio",
+    "quantity": "Cantidad",
+    "sub_total": "Total parcial",
+    "products_singular": "Producto",
+    "products_plural": "Productos",
+    "continue_shopping": "Seguir comprando",
+    "checkout": "VERIFICAR",
+    "clear": "Limpiar carro"
+}

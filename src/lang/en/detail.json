@@ -1,0 +1,14 @@
+{
+    "diameter" : "Diameter",
+    "cartridge" : "Cartridge Type",
+    "techsheet" :"TECHNICAL SHEET",
+    "techdrawing" : "TECHNICAL DRAWING",
+    "downloadimg" : "DOWNLOAD IMAGE",
+    "taxincluded" : "Tax Included.",
+    "shipping_calculation" : "Shipping Calculated at Checkout",
+    "addtocart" : "ADD TO CART",
+    "view" : "View",
+    "other_cartridges" : "Other cartridges",
+    "backtoshop" : "BACK TO SHOP",
+    "view_details" : "VIEW DETAILS"
+}

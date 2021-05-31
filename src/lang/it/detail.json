@@ -1,0 +1,14 @@
+{
+    "diameter" : "Diametro",
+    "cartridge" : "Tipo di cartuccia",
+    "techsheet" :"SCHEDA TECNICA",
+    "techdrawing" : "DISEGNO TECNICO",
+    "downloadimg" : "DOWNLOAD IMMAGINE",
+    "taxincluded" : "Tasse incluse",
+    "shipping_calculation" : "Spedizione calcolata al checkout",
+    "addtocart" : "AGGIUNGI AL CARRELLO",
+    "view" : "Mostra",
+    "other_cartridges" : "Altre cartucce",
+    "backtoshop" : "TORNA AL NEGOZIO",
+    "view_details" : "MOSTRA DETTAGLI"
+}

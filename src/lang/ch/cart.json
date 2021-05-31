@@ -1,0 +1,12 @@
+{
+    "cart": "購物車",
+    "product": "商品",
+    "price": "價格",
+    "quantity": "數量",
+    "sub_total":"小計",
+    "products_singular": "产品",
+    "products_plural": "产品",
+    "continue_shopping":"繼續購物",
+    "checkout":"結帳",
+    "clear":"清除购物车"
+}

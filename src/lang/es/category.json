@@ -1,0 +1,21 @@
+{
+    "product" : "PRODUCTOS",
+    "all" : "TODOS",
+    "cartridges" : "CARTUCHOS",
+    "diverters" : "DESVIADORES",
+    "thermostatic" : "TERMOSTÁTICOS",
+    "headworks" : "VÁLVULAS",
+    "diameter" : "Diámetro",
+    "type" : "Tipo",
+    "features" : "Características",
+    "functions" : "Funciones",
+    "sort" : "Ordenar por",
+    "load" : "CARGA MÁS",
+    "download" : "DESCARGAR",
+    "downloadcatalogues" : "Descarga nuestros catálogos",
+    "clear" : "LIMPIAR",
+    "view_details" : "VER DETALLES"
+
+    
+
+   }

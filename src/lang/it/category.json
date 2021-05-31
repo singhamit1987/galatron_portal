@@ -1,0 +1,18 @@
+{
+    "product" : "PRODOTTI",
+    "all" : "TUTTI",
+    "cartridges" : "CARTUCCE",
+    "diverters" : "DEVIATORI",
+    "thermostatic" : "TERMOSTATICI",
+    "headworks" : "VITONI",
+    "diameter" : "Diametro",
+    "type" : "Tipo",
+    "features" : "Caratteristiche",
+    "functions" : "Funzioni",
+    "sort" : "Ordina per",
+    "load" : "Carica di più",
+    "download" : "SCARICA",
+    "downloadcatalogues" : "Scarica i nostri cataloghi",
+    "clear" : "Pulisci",
+    "view_details" : "Dettagli"
+}

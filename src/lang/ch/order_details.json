@@ -1,0 +1,30 @@
+{
+    "account":"帳戶",
+    "delivered":"已送貨",
+    "delivered_small":"已送貨",    
+    "order_no":"訂單編號 ",
+    "order_date":"訂單日期",
+    "ship_address":"送貨地址",
+    "bill_address":"帳單地址",
+    "ship_method":"送貨方式 ",
+    "total_order":"總訂單 ",
+    "subtotal":"小計",
+    "shipping":"送貨",
+    "taxes":"稅項",
+    "total":"合計",
+    "payment_details":"付款詳情",
+    "paypal":"PayPal",
+    "back2orderhistory":"返回訂單歷史",
+    "order_summary":"訂單摘要",
+    "success":"成功",
+    "successfully":"成功地",
+    "failure":"手術失敗",
+    "please_enter":"進來",
+    "total_amount":"總金額",
+    "page_notfound":"抱歉，找不到頁面",
+    "standard":"標準",
+    "products":"產品",
+    "quantity":"數量:"
+    
+
+}

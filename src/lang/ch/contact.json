@@ -1,0 +1,35 @@
+{
+    "contact" : "聯絡方式",
+    "authorize" : "我授權按照以下規定處理我的個人數據",
+    "privacy_policy" : "私隱政策",
+    "privacy_policy_link" : "https://www.iubenda.com/privacy-policy/88644834",
+    "cookie_policy": "",
+    "cookie_policy_link" : "https://www.iubenda.com/privacy-policy/88644834/cookie-policy",
+    "send" : "發送",
+    "galatron_plast" : "GALATRON PLAST SPA",
+    "spa_address1" : "Via dell'Artigianato, 22",
+    "spa_address2" : "46043 Castiglione delle Stiviere (MN), Italy",
+    "prod_unit" : "生產單位",    
+    "prod_address1" : "Via 8 Marzo, 3 - ZI Cornali",
+    "prod_address2" : "25013 Carpenedolo (BS), Italy",
+    "number" : "数字",
+    "dpt_commercial_italy" : "意大利商業部門",
+    "dpt_commercial_foreign" : "外國商業部門",
+    "dpt_commercial_manage" : "商業管理部門",
+    "email" : "电子邮件",
+    "email_comm_dpt" : "商業部門",
+    "email_purchase_dpt" : "採購部門",
+    "email_tech_dpt" : "技術部門",
+    "spare_parts_dpt" : "備件",
+    "legal_notes" : "法律備註",
+    "vat" : "C.F - 增值稅號碼IT 00569810989",
+    "capt_social" : "股本 € 1.807.600,00 i.v.",
+    "rea" : "REA MN 248732 ",
+    "reg" : "商业登记 MN 00536090178",
+    "example_namesurname" : "你的名字和姓",
+    "example_email2" : "输入电子邮件",
+    "example_message" : "插入讯息"
+    
+
+
+}

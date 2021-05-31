@@ -1,0 +1,8 @@
+{
+ "login" : "LOGIN",
+ "email" : "E-mail",
+ "password" : "Password",
+ "log_in" : "EMPEZAR SESIÓN",
+ "no_account" : "¿No tienes una cuenta?",
+ "join_us" : "Únete a nosotros"
+}

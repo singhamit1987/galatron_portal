@@ -1,0 +1,30 @@
+{
+    "account":"ACCOUNT",
+    "delivered":"DELIVERED",
+    "delivered_small":"Delivered",
+    "order_no":"ORDER NUMBER",
+    "order_date":"ORDER DATE",
+    "ship_address":"SHIPPING ADDRESS",
+    "bill_address":"BILLING ADDRESS",
+    "ship_method":"SHIPPING METHOD",
+    "total_order":"TOTAL ORDER",
+    "subtotal":"Subtotal",
+    "shipping":"Shipping",
+    "taxes":"Taxes",
+    "total":"Total",
+    "payment_details":"PAYMENT DETAILS",
+    "paypal":"PayPal",
+    "back2orderhistory":"BACK TO ORDERS HISTORY",
+    "order_summary":"ORDER SUMMARY",
+    "success":"SUCCESS",
+    "successfully":"successfully",
+    "failure":"Operation failed",
+    "please_enter":"Enter",
+    "total_amount":"Total Amount",
+    "page_notfound":"Ops! We didn't find what you were looking for",
+    "standard":"Standard",
+    "products":"PRODUCTS",
+    "quantity":"Quantity"
+    
+
+}

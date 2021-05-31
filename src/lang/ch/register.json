@@ -1,0 +1,10 @@
+{
+ "register" : "加入我們！",
+ "name" : "名稱",
+ "surname" : "姓氏",
+ "email" : "電郵",
+ "password" : "密碼",
+ "registration" : "註冊",
+ "no_account" : "已經有帳戶？",
+ "log_in" : "登入"
+}

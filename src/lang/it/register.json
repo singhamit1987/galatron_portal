@@ -1,0 +1,10 @@
+{
+    "register" : "Registrati",
+    "name" : "Nome",
+    "surname" : "Cognome",
+    "email" : "Email",
+    "password" : "Password",
+    "registration" : "REGISTRATI",
+    "no_account" : "Hai già un account?",
+    "log_in" : "Accedi"
+  }

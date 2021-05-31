@@ -1,0 +1,9 @@
+{
+    "account": "ACCOUNT",
+    "name": "Nombre",
+    "surname": "Apellido",
+    "email": "E-mail",
+    "password": "Password",
+    "update_details": "Actualizar Detalles"
+    
+}

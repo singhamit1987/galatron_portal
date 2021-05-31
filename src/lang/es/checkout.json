@@ -1,0 +1,33 @@
+{
+    "checkout":"Verificar",
+    "customer_shipping_info":"Información del cliente y del envío",
+    "edit":"Editar",
+    "billing_address":"Dirección de facturación",
+    "shipping_address":"Dirección de envío",
+    "payment":"Pago",
+    "paypal":"PayPal",
+    "credit_card":"Tarjeta de crédito",
+    "card_name":"Nombre tarjeta",
+    "card_number":"Número tarjeta",
+    "card_exp":"Vencimiento",
+    "card_cvv":"CVV",
+    "order_summary":"Resumen del pedido",
+    "subtotal":"Total parcial",
+    "shipping":"ENVÍO",
+    "tax":"Impuestos",
+    "total":"TOTAL",
+    "back":"ESPALDA",
+    "place_order":"Realizar pedido",
+    "address_default":"Dirección 1 - Default",
+    "cancel":"CANCEL",
+    "use_shipping":"Usar la dirección de envío",
+    "diff_billing":"Usar una dirección de facturación diferente",
+    "back_cart":"VOLVER AL CARRO",
+    "continue":"SEGUIR",
+    "example_card":"Insertar nombre tarjeta",
+    "example_expiry":"MM/AA",
+    "example_cvv":"CVV"
+
+    
+
+}

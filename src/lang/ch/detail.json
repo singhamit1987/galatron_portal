@@ -1,0 +1,15 @@
+{
+    "diameter" : "直徑",
+    "cartridge" : "混合器類型",
+    "techsheet" :"技术表",
+    "techdrawing" : "技术制图",
+    "downloading" : "下载图像",
+    "taxincluded" : "含税",
+    "shipping_calculation" : "结帐时计算运费",
+    "addtocart" : "添加到购物车",
+    "view" : "看法",
+    "other_cartridges" : "其他墨盒",
+    "backtoshop" : "返回商店",
+    "view_details" : "查看详情"
+    
+   }

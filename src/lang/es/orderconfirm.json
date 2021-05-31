@@ -1,0 +1,11 @@
+{
+    "order_confirmed":"ORDEN CONFIRMADA",
+    "oc_txt_1":"Tu orden ha sido recibida!",
+    "oc_txt_2":"Recibirás en tu buzón los datos del pedido.",
+    "oc_txt_3":"y actualizaciones de envío.",
+    "back_home":"VOLVER A HOME",
+    "order_failure":"Orden fallida",
+    "of_txt_1":"¡Tu pedido ha fallado!",
+    "of_txt_2":"La cantidad deducida se reembolsará a su cuenta",
+    "of_txt_3":"Reintentar de nuevo"
+}

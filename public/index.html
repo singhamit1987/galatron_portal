@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <meta name="Galatron" content="Web site created using create-react-app" />
+
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+
+    <link rel="stylesheet" href="%PUBLIC_URL%/css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Sulphur+Point:wght@300;400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="%PUBLIC_URL%/js/jquery-2.1.4.min.js"></script>
+
+    <style>
+        @font-face {
+            font-family: 'ITC-Regular';
+            font-weight: 400;
+            src: url('%PUBLIC_URL%/fonts/itc-regular.eot');
+            /* IE9 Compat Modes */
+            src: url('%PUBLIC_URL%/fonts/itc-regular.eot?#iefix') format('embedded-opentype'),
+                /* IE6-IE8 */
+                url('%PUBLIC_URL%/fonts/itc-regular.woff') format('woff'),
+                /* Pretty Modern Browsers */
+                url('%PUBLIC_URL%/fonts/itc-regular.ttf') format('truetype'),
+                /* Safari, Android, iOS */
+        }
+    </style>
+
+
+
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <script src="https://www.paypal.com/sdk/js?client-id=AeUUAPvE7BYNYzkkScYhRnYKgcISgUUOfe3NAcGkAMkZyFmAn7hMK3qjCT9Y2JFGbr4dFfgfAn111Y9K&currency=EUR"></script>
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>Galatron - Cartucce ceramiche e articoli tecnici sanitari</title>
+ 
+</head>
+
+<body>
+    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <div id="root"></div>
+    <!-- Script Company Page -->
+   
+
+    <script>
+        jQuery(window).scroll(function () {
+            var scrollValue = jQuery(this).scrollTop()
+            // console.log(scrollValue)
+            if (scrollValue > 950 && scrollValue < 6610) {
+                jQuery('.topics_name').addClass('fixed')
+            } else {
+                jQuery('.topics_name').removeClass('fixed')
+            }
+
+        })
+    </script>
+
+     
+ 
+</body>
+
+</html>

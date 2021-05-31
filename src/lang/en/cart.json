@@ -1,0 +1,12 @@
+{
+    "cart": "CART",
+    "product": "PRODUCT",
+    "price": "PRICE",
+    "quantity": "QUANTITY",
+    "sub_total":"SUBTOTAL",
+    "products_singular": "Product",
+    "products_plural": "Products",
+    "continue_shopping":"Continue shopping",
+    "checkout":"CHECKOUT",
+    "clear":"CLEAR CART"
+}

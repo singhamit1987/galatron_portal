@@ -1,0 +1,30 @@
+{
+    "account":"CUENTA",
+    "delivered":"ENTREGADO",
+    "delivered_small":"Entregado",    
+    "order_no":"NÚMERO DE ORDEN",
+    "order_date":"FECHA DE ORDEN",
+    "ship_address":"DIRECCIÓN DE ENVÍO",
+    "bill_address":"DIRECCIÓN DE FACTURA",
+    "ship_method":"MÉTODO DE ENVÍO",
+    "total_order":"ORDEN TOTAL",
+    "subtotal":"Total parcial",
+    "shipping":"Transporte",
+    "taxes":"Impuestos",
+    "total":"Total",
+    "payment_details":"DETALLES DEL PAGO",
+    "paypal":"PayPal",
+    "back2orderhistory":"VOLVER A LA HISTORIA DE ODERS",
+    "order_summary":"RESUMEN DEL PEDIDO",
+    "success":"ÉXITO",
+    "successfully":"exitosamente",
+    "failure":"Operación fallida",
+    "please_enter":"Entra",
+    "total_amount":"Cantidad total",
+    "page_notfound":"Ops! No encontramos lo que buscabas",
+    "standard":"Standard",
+    "products":"PRODUCTOS",
+    "quantity":"Cantidad"
+    
+
+}

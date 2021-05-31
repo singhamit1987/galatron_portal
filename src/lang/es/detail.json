@@ -1,0 +1,15 @@
+{
+    "diameter" : "Diámetro",
+    "cartridge" : "Tipo de cartucho",
+    "techsheet" :"HOJA TÉCNICA",
+    "techdrawing" : "DIBUJO TÉCNICO",
+    "downloading" : "DESCARGAR IMAGEN",
+    "taxincluded" : "Impuesto incluido",
+    "shipping_calculation" : "Envío calculado al finalizar la compra",
+    "addtocart" : "AÑADIR AL CARRO",
+    "view" : "Vista",
+    "other_cartridges" : "Otros cartuchos",
+    "backtoshop" : "VOLVER A LA TIENDA",
+    "view_details" : "VER DETALLES"
+    
+   }

@@ -1,0 +1,8 @@
+{
+    "login" : "LOGIN",
+    "email" : "E-mail",
+    "password" : "Password",
+    "log_in" : "LOG IN",
+    "no_account" : "Don’t you have an account yet? ",
+    "join_us" : "Join us"
+  }

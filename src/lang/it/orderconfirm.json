@@ -1,0 +1,11 @@
+{
+    "order_confirmed":"Ordine confermato",
+    "oc_txt_1":"Il tuo ordine è stato ricevuto!",
+    "oc_txt_2":"Riceverai il tuo ordine per e-mail",
+    "oc_txt_3":"Aggiornamento spedizioni",
+    "back_home":"Torna alla home",
+    "order_failure":"Operazione fallita",
+    "of_txt_1":"Non è stato possibile effettuare l'ordine.",
+    "of_txt_2":"L'ammontare eventualmente addebitato sarà rimborsato sul metodo di pagamento",
+    "of_txt_3":"Per favore, ripetere la procedura"
+}

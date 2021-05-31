@@ -1,0 +1,12 @@
+{
+    "cart": "CARRELLO",
+    "product": "Prodotti",
+    "price": "Prezzo",
+    "quantity": "Quantità",
+    "sub_total": "Subtotale",
+    "products_singular": "Prodotto",
+    "products_plural": "Prodotti",
+    "continue_shopping": "Continua a comprare",
+    "checkout": "CHECKOUT",
+    "clear": "Pulisci carrello"
+}

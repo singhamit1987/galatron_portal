@@ -1,0 +1,10 @@
+{
+ "register" : "Únete a nosotros",
+ "name" : "Nombre",
+ "surname" : "Apellido",
+ "email" : "E-mail",
+ "password" : "Password",
+ "registration" : "REGISTRARSE",
+ "no_account" : "Ya tienes una cuenta?",
+ "log_in" : "Empezar sesión."
+}

@@ -1,0 +1,8 @@
+{
+    "account": "ACCOUNT",
+    "name": "Nome",
+    "surname": "Cognome",
+    "email": "E-mail",
+    "password": "Password",
+    "update_details": "Salva modifiche"
+}
