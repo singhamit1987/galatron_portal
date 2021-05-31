@@ -10,7 +10,7 @@ export default function Loading() {
     },[Count])
     return (
       <div className="loading">
-        <h2>{Count}%</h2>
+        <h2> {Count}% </h2>
       </div>
     )
   }
